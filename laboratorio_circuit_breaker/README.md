@@ -43,7 +43,8 @@ El sistema responde parcialmente: `/usuarios` devuelve datos normales mientras `
 ![Fase 2](evidencias/fase2.png)
 
 LOGS
-![LOGS](evidencias/fase2,1.png)
+
+![logs](evidencias/fase2,1.png)
 
 **Código implementado:**
 
