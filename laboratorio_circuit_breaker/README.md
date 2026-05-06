@@ -16,9 +16,11 @@ Insiste durante los primeros 3 intentos (sin protección). Después del tercero,
 **Evidencia**
 
 Sistema funcionando:
+
 ![Sistema funcionando](evidencias/fase1.png)
 
 LOGS
+
 ![LOGS](evidencias/fase1,2.png)
 
 ---
